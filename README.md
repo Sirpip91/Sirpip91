@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sirpip91
 - 👀 I’m interested in learning different programming languages.
-- 🌱 I’m currently learning C++, HTML, and CSS
+- 🌱 I’m currently learning C++,C#, HTML, and CSS
 - 💞️ I’m looking to collaborate on any project that will help me improve my skils
 - 📫 How to reach me: allenbradley91@hotmail.com
 
