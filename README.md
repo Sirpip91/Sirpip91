@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love workout and play harmonica
+- ⚡ Fun fact: I love to workout and play harmonica
 
 [website]: https://bradley-allen.com/
 [linkedin]: https://linkedin.com/in/bradley-allen101
