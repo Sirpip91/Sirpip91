@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Sirpip91
-- 👀 I’m interested in learning different programming languages.
-- 🌱 I’m always improving my C++, Java, HTML, CSS, JavaScript skills.
-- 💞️ I’m looking to collaborate on any project that will help me improve my skils
-- 📫 How to reach me: allenbradley91@hotmail.com
+# Hi there, I'm Bradley - aka Sirpip91 
 
 
-<!---
-Sirpip91/Sirpip91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a Student, Developer, and Tech enjoyer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other programmers
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love workout and play harmonica
+- 
+
+[website]: https://bradley-allen.com/
+[linkedin]: https://linkedin.com/in/bradley-allen101
