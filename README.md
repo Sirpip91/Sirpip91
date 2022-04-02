@@ -8,5 +8,8 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to workout and play harmonica
 
-[website]: https://bradley-allen.com/
-[linkedin]: https://linkedin.com/in/bradley-allen101
+## Links to some of my creations!
+<b>Personal Website</b> : https://bradley-allen.com/
+<br></br>
+<b>linkedin</b> : https://linkedin.com/in/bradley-allen101
+
