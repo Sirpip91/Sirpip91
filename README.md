@@ -13,7 +13,15 @@
 
 
 ## 🔧 Tools or Languages I use for development:
-todo:
+<br> <b>C++</b>
+<br> <b>Java</b>
+<br> <b>HTML</b>
+<br> <b>CSS</b>
+<br> <b>Javascript</b>
+<br>
+<br>
+<br>
+todo: add logos for each
 
 
 ## Links to some of my creations!
