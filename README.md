@@ -28,4 +28,5 @@ todo: add logos for each
 <b>Personal Website</b> : https://bradley-allen.com/
 <br></br>
 <b>linkedin</b> : https://linkedin.com/in/bradley-allen101
-
+<br></br>
+<b>Leetcode</b> : https://leetcode.com/Sirpip91/
