@@ -1,4 +1,4 @@
-# Hi there, I'm Bradley - aka Sirpip91 
+# Hi there, I'm Bradley!
 
 
 ![Sirpip91 Banner](https://github.com/Sirpip91/sirpip/blob/main/GitProfileBradley.png)
