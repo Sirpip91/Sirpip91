@@ -30,3 +30,6 @@ todo: add logos for each
 <b>linkedin</b> : https://linkedin.com/in/bradley-allen101
 <br></br>
 <b>Leetcode</b> : https://leetcode.com/Sirpip91/
+<br></br>
+<b>Youtube</b> : https://www.youtube.com/channel/UCP2gOlXBAaK2hhTHqpzF5SA
+
