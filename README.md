@@ -18,8 +18,8 @@
 <br> <b>HTML</b>
 <br> <b>CSS</b>
 <br> <b>Javascript</b>
+<br> <b>React</b>
+<br> <b>Linux</b>
 <br>
-<br>
-<br>
-todo: add logos for each
+
 
