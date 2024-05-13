@@ -4,7 +4,7 @@
 ![Sirpip91 Banner](https://github.com/Sirpip91/sirpip/blob/main/GitProfileBradley.png)
 
 
-## I'm a Student, Developer, and Tech enjoyer!!
+## I'm a Learner, Developer, and Tech enjoyer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
