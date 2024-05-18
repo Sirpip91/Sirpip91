@@ -2,7 +2,7 @@
 
 I'm a C++ Programmer, Web Enthusiast, and a Computer Science enjoyer.
 
-My work primarily involves Programming and developing software for business needs during the day, and contributing to the field of computer science oustside of my day job.
+My work primarily involves Programming and developing software for business needs during the day, and contributing to the field of computer science during the night.
 
 ## 🚀 My Work 
 My work is primarily involved in programming, although I focus mainly on providing knowledge and removing the "over-complicating" parts of teaching.
