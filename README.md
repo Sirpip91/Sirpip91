@@ -1,25 +1,35 @@
-# Hi there, I'm Bradley!
+# Hello, I'm [Bradley](https://github.com/Sirpip91) 👋
 
+I'm a C++ Programmer, Web Enthusiast, and a Computer Science enjoyer.
 
-![Sirpip91 Banner](https://github.com/Sirpip91/sirpip/blob/main/GitProfileBradley.png)
+My work primarily involves Programming and developing software for business needs during the day, and contributing to the field of computer science oustside of my day job.
 
+## 🚀 My Work 
+My work is primarily involved in programming, although I focus mainly on providing knowledge and removing the "over-complicating" parts of teaching.
 
-## I'm a Learner, Developer, and Tech enjoyer!!
+### Bradleydallen.io
+This is my main open-source full project. It will contain tutorials, blogs, courses, and everything involving computer science. The main goal and focus of this project is to provide informational value to users without the "fluf". Computer science topcis usually include large "nomenclature" that causes confusion within the fied. <br>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to workout and play harmonica
+My purpose with this site is to provide valuable information and tutorials without the overcomplication of being "smarter" than others.
 
-
-## 🔧 Tools or Languages I use for development:
-<br> <b>C++</b>
-<br> <b>Java</b>
-<br> <b>HTML</b>
-<br> <b>CSS</b>
-<br> <b>Javascript</b>
-<br> <b>React</b>
-<br> <b>Linux</b>
+I implement the layman's approach to teaching:
 <br>
 
+bradleydallen.io: https://github.com/Sirpip91/bradleydallen.io 
+
+### 🚀 Personal Projects 
+
+- Packet Visualization CSMA/CD and 802.11 (CSMA/CD) Protocols: https://github.com/Sirpip91/NS2-Networks-Trace-File-Analysis
+- Unix Based Shell: https://github.com/Sirpip91/simple-shell
+- TickTackToe Based Game: https://github.com/Sirpip91/Wargames
+- Banking Application: https://github.com/Sirpip91/BankDatabase
+
+### 💻 Technologies
+Here is the list of technologies that I have put many hours working in:<br>
+C++, C, Java, Python, HTML, CSS, REACT, Next.js, Linux, Networking, AWS.
+
+## 📫 Get in Touch 
+
+- LinkedIn: https://www.linkedin.com/in/bradleyallen101/
+- Website: https://www.bradleydallen.com/
 
