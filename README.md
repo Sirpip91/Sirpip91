@@ -8,7 +8,7 @@ My work primarily involves Programming and developing software for business need
 My work is primarily involved in programming, although I focus mainly on providing knowledge and removing the "over-complicating" parts of teaching.
 
 ### Bradleydallen.io
-This is my main open-source full project. It will contain tutorials, blogs, courses, and everything involving computer science. The main goal and focus of this project is to provide informational value to users without the "fluf". Computer science topcis usually include large "nomenclature" that causes confusion within the fied. <br>
+This is my main full project. It will contain tutorials, blogs, courses, and everything involving computer science. The main goal and focus of this project is to provide informational value to users without the "fluf". Computer science topcis usually include large "nomenclature" that causes confusion within the field. <br>
 
 My purpose with this site is to provide valuable information and tutorials without the overcomplication of being "smarter" than others.
 
