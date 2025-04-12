@@ -15,7 +15,7 @@ My purpose with this site is to provide valuable information and tutorials witho
 I implement the layman's approach to teaching:
 <br>
 
-bradleydallen.io: https://github.com/Sirpip91/bradleydallen.io 
+bradleydallen.io: https://www.bradleydallen.io/
 
 ### 🚀 Personal Projects 
 
